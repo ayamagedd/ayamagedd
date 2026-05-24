@@ -1,8 +1,17 @@
 <div align="center">
 
 # Aya Maged
-### Cybersecurity Student · Cairo, Egypt 🇪🇬
-*2nd Year · Computer Science — Cybersecurity Track*
+### Cybersecurity Student · Cairo, Egypt
+*Computer Science Student at ElSewedy University of Technology —Network & Cybersecurity Track*
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya1maged)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamaggedd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayamagedd)
+
+</div>
 
 </div>
 
@@ -80,16 +89,6 @@ Completed an intensive 250-hour hands-on program covering SOC operations, IBM QR
 
 ---
 
-## Projects
-
-**[PropEstate](https://github.com/ayamagedd/PropEstate)** — Web Security Course Project  
-A full-stack real estate platform built with Laravel 12, demonstrating secure application development with role-based access control (Admin / Agent / Buyer), authentication, Google Maps integration, 360° virtual tours, and SMS/email notification pipelines. Includes a comprehensive security test suite covering authentication, authorization, XSS, and CSRF protections.
-
-**[WebLogForensics](https://github.com/ayamagedd/WebLogForensics)** — Security Analysis Tool  
-A Python and Streamlit forensics tool for analyzing Apache/Nginx access logs. Detects SQL injection, XSS, brute force, webshell probes, credential harvesting, and suspicious user agents. Generates structured 15-section forensics reports with threat actor profiling, IOC extraction, and actionable remediation recommendations.
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -110,12 +109,3 @@ A Python and Streamlit forensics tool for analyzing Apache/Nginx access logs. De
 
 ---
 
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya1maged)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamaggedd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayamagedd)
-
-</div>
