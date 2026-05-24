@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aya Magedd
+# Aya Maged
 ### Cybersecurity Student · Cairo, Egypt 🇪🇬
 *2nd Year · Computer Science — Cybersecurity Track*
 
@@ -64,6 +64,22 @@ I am a cybersecurity student with a focus on web security, penetration testing, 
 
 ---
 
+## Experience
+
+**Cyber Security Diploma — Blue Team / SOC Analyst**  
+WE Telecom Egypt · 250 Hours · Cairo, Egypt
+
+![SOC](https://img.shields.io/badge/SOC_Operations-2D2D2D?style=flat-square&logoColor=white)
+![SIEM](https://img.shields.io/badge/IBM_QRadar_SIEM-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![DFIR](https://img.shields.io/badge/DFIR-8B0000?style=flat-square&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-333333?style=flat-square&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-CC0000?style=flat-square&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+Completed an intensive 250-hour hands-on program covering SOC operations, IBM QRadar SIEM, threat intelligence and hunting, DFIR, ethical hacking, network security, Linux/Windows server administration, Python security scripting, and dark web monitoring.
+
+---
+
 ## Projects
 
 **[PropEstate](https://github.com/ayamagedd/PropEstate)** — Web Security Course Project  
@@ -89,7 +105,7 @@ A Python and Streamlit forensics tool for analyzing Apache/Nginx access logs. De
 
 - 📚 2nd year Cybersecurity student
 - 🔨 Building security tools and expanding into CTF challenges
-- 🌱 Deepening knowledge in penetration testing , network forensics and wireless communication
+- 🌱 Deepening knowledge in penetration testing , network forensics , and wireless communication
 - 💼 Open to cybersecurity internship opportunities
 
 ---
